@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jump</key>
+	<dict>
+		<key>class_name</key>
+		<string>#jumpViewController</string>
+		<key>class_displayName</key>
+		<string>跳转来的</string>
+	</dict>
+	<key>home</key>
+	<dict>
+		<key>class_displayName</key>
+		<string>首页</string>
+		<key>class_name</key>
+		<string>#homeViewController</string>
+	</dict>
+	<key>next</key>
+	<dict>
+		<key>class_name</key>
+		<string>#nextViewController</string>
+		<key>class_displayName</key>
+		<string>继续</string>
+	</dict>
+</dict>
+</plist>
